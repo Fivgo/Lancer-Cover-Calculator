@@ -1,0 +1,21 @@
+{
+    "id": "Lancer-Cover-Calculator",
+    "title": "Lance Cover Calculator",
+    "description": "A method to calculate when a target is in soft or hard cover",
+    "authors": [
+      {
+      "name": "Fivgo",
+      "url": "https://github.com/Fivgo"
+      }
+      ],
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "11",
+      "verified": "11"
+    },
+    "scripts": [
+      "scripts/roller.js"
+    ],
+    "system": ["LANCER"],
+    "url":"https://github.com/Fivgo/Lancer-Cover-Calculator"
+  }
