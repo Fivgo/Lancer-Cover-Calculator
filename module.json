@@ -1,5 +1,6 @@
 {
     "id": "Lancer-Cover-Calculator",
+    "name": "Lancer-Cover-Calculator",
     "title": "Lance Cover Calculator",
     "description": "A method to calculate when a target is in soft or hard cover",
     "authors": [
